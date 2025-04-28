@@ -41,14 +41,14 @@ header{
     font-weight: 600;
 }
 .main-2 button{
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 600;
-    color: white;
-    background-color: rgb(250, 249, 256);
+    color: black;
+    background-color: rgb(255, 255, 255);
     padding: 9px 34px;
     border: 0;
     border-radius: 4px;
-    margin-right: 73px;
+    margin-right: 50px;
 }
 .landing-section{
     width: 100%;
